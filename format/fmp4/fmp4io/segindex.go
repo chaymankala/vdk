@@ -1,6 +1,6 @@
 package fmp4io
 
-import "github.com/deepch/vdk/utils/bits/pio"
+import "github.com/chaymankala/vdk/utils/bits/pio"
 
 const SIDX = Tag(0x73696478)
 

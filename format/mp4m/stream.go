@@ -3,8 +3,8 @@ package mp4
 import (
 	"time"
 
-	"github.com/deepch/vdk/av"
-	"github.com/deepch/vdk/format/mp4/mp4io"
+	"github.com/chaymankala/vdk/av"
+	"github.com/chaymankala/vdk/format/mp4/mp4io"
 )
 
 type Stream struct {

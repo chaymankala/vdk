@@ -2,10 +2,10 @@ package rtspv2
 
 import (
 	"encoding/binary"
-	"github.com/deepch/vdk/av"
-	"github.com/deepch/vdk/codec/aacparser"
-	"github.com/deepch/vdk/codec/h264parser"
-	"github.com/deepch/vdk/codec/h265parser"
+	"github.com/chaymankala/vdk/av"
+	"github.com/chaymankala/vdk/codec/aacparser"
+	"github.com/chaymankala/vdk/codec/h264parser"
+	"github.com/chaymankala/vdk/codec/h265parser"
 	"math"
 	"time"
 )
